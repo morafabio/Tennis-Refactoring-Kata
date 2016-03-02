@@ -8,6 +8,9 @@
             "": [
                 ".",
                 "tests"
+            ],
+            "TennisGame\\": [
+                "src"
             ]
         }
     }

@@ -1,0 +1,18 @@
+{
+  "advantage": {
+    "one-point": "Advantage %s",
+    "win": "Win for %s"
+  },
+  "equal": {
+    "0": "Love-All",
+    "1": "Fifteen-All",
+    "2": "Thirty-All",
+    "deuce": "Deuce"
+  },
+  "ongoing": {
+    "0": "Love",
+    "1": "Fifteen",
+    "2": "Thirty",
+    "3": "Forty"
+  }
+}
